@@ -8,7 +8,7 @@ ___
 git clone https://github.com/Wandalen/wEncoder
 cd wEncoder
 npm install
-node sample/Sample.s
+node sample/trivial/Sample.s
 ```
 
 ## To add to your project
